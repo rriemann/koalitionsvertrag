@@ -16,7 +16,7 @@ Das Quellformat hier ist [Markdown](https://de.wikipedia.org/wiki/Markdown)
 Mittels [Pandoc](https://de.wikipedia.org/wiki/Pandoc) kann von Markdown in andere Formate konvertiert werden.
 
 - Koalitionsvertrag 2018 im HTML Format: [koalitionsvertrag-2018.html](koalitionsvertrag-2018.html)
-- Koalitionsvertrag 2018 im OpenOffice/LibreOffice Format: [koalitionsvertrag-2018.fodt](koalitionsvertrag-2018.fodt)
+- Koalitionsvertrag 2018 im OpenOffice/LibreOffice Format: [koalitionsvertrag-2018.odt](koalitionsvertrag-2018.odt)
 - Koalitionsvertrag 2018 im E-Book Format: [koalitionsvertrag-2018.epub](koalitionsvertrag-2018.epub)
 - Koalitionsvertrag 2018 im MS Office Format: [koalitionsvertrag-2018.docx](koalitionsvertrag-2018.docx)
 - Koalitionsvertrag 2018 im PDF Format (generiert aus Markdown): [koalitionsvertrag-2018.pdf](koalitionsvertrag-2018.pdf)
