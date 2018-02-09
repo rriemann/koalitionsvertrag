@@ -26,7 +26,7 @@ Skript für Konvertierung:
 ```
 pandoc -o koalitionsvertrag-2018.docx --toc --toc-depth 2 koalitionsvertrag-2018.md 
 pandoc -o koalitionsvertrag-2018.epub --toc --toc-depth 2 koalitionsvertrag-2018.md 
-pandoc -o koalitionsvertrag-2018.fodt --toc --toc-depth 2 koalitionsvertrag-2018.md # OpenOffice
+pandoc -o koalitionsvertrag-2018.odt  --toc --toc-depth 2 koalitionsvertrag-2018.md # LibreOffice/OpenOffice
 pandoc -o koalitionsvertrag-2018.html --toc --toc-depth 2 koalitionsvertrag-2018.md
 pandoc -o koalitionsvertrag-2018.pdf  --toc --toc-depth 2 koalitionsvertrag-2018.md
 ```
