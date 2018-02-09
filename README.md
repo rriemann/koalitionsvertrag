@@ -19,6 +19,7 @@ Mittels [Pandoc](https://de.wikipedia.org/wiki/Pandoc) kann von Markdown in ande
 - Koalitionsvertrag 2018 im OpenOffice/LibreOffice Format: [koalitionsvertrag-2018.fodt](koalitionsvertrag-2018.fodt)
 - Koalitionsvertrag 2018 im E-Book Format: [koalitionsvertrag-2018.epub](koalitionsvertrag-2018.epub)
 - Koalitionsvertrag 2018 im MS Office Format: [koalitionsvertrag-2018.docx](koalitionsvertrag-2018.docx)
+- Koalitionsvertrag 2018 im PDF Format (generiert aus Markdown): [koalitionsvertrag-2018.pdf](koalitionsvertrag-2018.pdf)
 
 Skript für Konvertierung:
 
@@ -27,6 +28,7 @@ pandoc -o koalitionsvertrag-2018.docx --toc --toc-depth 2 koalitionsvertrag-2018
 pandoc -o koalitionsvertrag-2018.epub --toc --toc-depth 2 koalitionsvertrag-2018.md 
 pandoc -o koalitionsvertrag-2018.fodt --toc --toc-depth 2 koalitionsvertrag-2018.md # OpenOffice
 pandoc -o koalitionsvertrag-2018.html --toc --toc-depth 2 koalitionsvertrag-2018.md
+pandoc -o koalitionsvertrag-2018.pdf  --toc --toc-depth 2 koalitionsvertrag-2018.md
 ```
 
 
