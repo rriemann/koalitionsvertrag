@@ -400,9 +400,7 @@ Fachkapiteln verbindlich beschrieben sind.
     für Kitaausbau, Entlastung von Eltern bei den Gebühren bis hin zur
     Gebührenfreiheit. Steigerung der Qualität in der Kinderbetreuung.
     Einführung Rechtsanspruch auf Ganztagsbetreuung im Grundschulalter
-    bis
-
-2025. Zuschüsse für haushaltsnahe Dienstleistungen. Förderung von
+    bis 2025. Zuschüsse für haushaltsnahe Dienstleistungen. Förderung von
     Familienfreundlichkeit.
 
 -   Wir bekämpfen Kinderarmut: Erhöhung und leichtere Beantragung
@@ -415,8 +413,7 @@ Fachkapiteln verbindlich beschrieben sind.
 
 -   Wir sorgen für mehr Gleichstellung: Gleichberechtigte Teilhabe von
     Frauen und Männern in Leitungsfunktionen im öffentlichen Dienst bis
-
-2025. Bessere Bezahlung in Pflege- und Sozialberufen.
+    2025. Bessere Bezahlung in Pflege- und Sozialberufen.
 
 -   Wir bekämpfen Gewalt gegenüber Frauen und Kindern: Aktionsprogramm
     zur Prävention und Unterstützung für von Gewalt betroffene Frauen
@@ -642,11 +639,10 @@ Fachkapiteln verbindlich beschrieben sind.
     ein Leben lang gearbeitet haben, unter Einbeziehung von
     Kindererziehungs- und Pflegezeiten. Bessere Verschonungsregel für
     selbstgenutztes Wohneigentum. Bessere Anerkennung von
-    Erziehungszeiten durch Mütterrente
-
-II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
-    Selbständigen in die gesetzliche Rentenversicherung mit
-    Opt-out-Lösung und Altersvorsorgepflicht.
+    Erziehungszeiten durch Mütterrente II. Verbesserungen bei der
+    Erwerbsminderungsrente. Einbeziehung von Selbständigen in die
+    gesetzliche Rentenversicherung mit Opt-out-Lösung und
+    Altersvorsorgepflicht.
 
 -   Wir stärken die Teilhabe von Menschen mit Behinderungen:
     Investitionen in Ausbau der Barrierefreiheit im öffentlichen Raum
@@ -661,8 +657,8 @@ II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
     Stärkung ambulante Alten- und Krankenpflege im ländlichen Raum.
 
 -   Wir schaffen eine gerechtere Finanzierung der GKV: Wiederherstellung
-    Parität bei den Beiträgen zur Gesetzlichen Krankenversicherung. Ab
-    1. Januar 504 werden Beiträge zur Krankenversicherung wieder in
+    Parität bei den Beiträgen zur Gesetzlichen Krankenversicherung. Ab 1.
+    Januar 2019 werden Beiträge zur Krankenversicherung wieder in
     gleichem Maße von Arbeitgebern und Beschäftigten geleistet.
 
 -   Wir schaffen eine flächendeckend gute Gesundheitsversorgung: Mehr
@@ -703,7 +699,7 @@ II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
 -   Wir stellen für die Zuwanderungszahlen fest, dass sie basierend auf
     den Erfahrungen der letzten 20 Jahre sowie mit Blick auf die
     vereinbarten Maßnahmen und den unmittelbar steuerbaren Teil der
-    Zuwanderung die Spanne von jährlich 000 bis 220 000 nicht
+    Zuwanderung die Spanne von jährlich 180000 bis 220000 nicht
     übersteigen werden.
 
 -   Wir ordnen die Zuwanderung: Klare Regeln für Familiennachzug und
@@ -754,7 +750,7 @@ II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
 -   Wir unterstützen Familien beim Erwerb von Wohneigentum:
     Baukindergeld in Höhe von 1200 Euro je Kind pro Jahr.
 
--   Wir sorgen für bezahlbare Mieten: Dämpfung Mietanstieg, u. a. durch
+-   Wir sorgen für bezahlbare Mieten: Dämpfung Mietanstieg, u.a. durch
     Verlängerung Bindungszeitraum des qualifizierten Mietspiegels.
     Absenkung Modernisierungsumlage auf 8 Prozent. Anpassung Wohngeld an
     individuelle Lebensbedingungen. Kappungsgrenze für Erhöhung von
@@ -863,8 +859,8 @@ II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
 -   Wir wollen fairen Welthandel: Deutschland als Vorreiter für eine
     faire EUHandelspolitik: Eintreten für verbindliche soziale,
     menschenrechtliche und ökologische Standards in EU-Handels-,
-    -Investitions- und - Wirtschaftspartnerschaftsabkommen. Globale
-    Nachhaltigkeitsstrategie Agenda 0 als Richtschnur deutscher Politik.
+    -Investitions- und -Wirtschaftspartnerschaftsabkommen. Globale
+    Nachhaltigkeitsstrategie Agenda 2030 als Richtschnur deutscher Politik.
 
 #### Zusammenhalt und Erneuerung -- Demokratie beleben (Kapitel XIII)
 
@@ -905,7 +901,7 @@ II. Verbesserungen bei der Erwerbsminderungsrente. Einbeziehung von
 
 # Familien und Kinder im Mittelpunkt
 
-1\. Familien
+## Familien
 
 Familien halten unsere Gesellschaft zusammen. Sie zu stärken und zu
 entlasten ist unser Ziel. Wir schreiben Familien kein bestimmtes
@@ -1040,7 +1036,7 @@ geschlechtsangleichende medizinische Eingriffe an Kindern nur in
 unaufschiebbaren Fällen und zur Abwendung von Lebensgefahr zulässig
 sind.
 
-## Kinder stärken -- Kinderrechte ins Grundgesetz
+## Kinder stärken - Kinderrechte ins Grundgesetz
 
 Wir werden Kinderrechte im Grundgesetz ausdrücklich verankern. Kinder
 sind Grundrechtsträger, ihre Rechte haben für uns Verfassungsrang. Wir
@@ -1051,9 +1047,10 @@ und bis spätestens Ende 2019 einen Vorschlag vorlegen.
 Die Kinderkommission des Deutschen Bundestages werden wir in ihrer
 Arbeit stärken.
 
-Kinder und Jugendliche schützen und Familien unterstützen Wir werden die
-Kinder- und Jugendhilfe weiterentwickeln, den Kinderschutz verbessern
-und die Familien unterstützen. Das bestehende Kinder- und
+#### Kinder und Jugendliche schützen und Familien unterstützen
+
+Wir werden die Kinder- und Jugendhilfe weiterentwickeln, den
+Kinderschutz verbessern und die Familien unterstützen. Das bestehende Kinder- und
 Jugendhilfegesetz hat sich in seiner Grundausrichtung bewährt und hohe
 Akzeptanz erfahren. Gesellschaftliche Veränderungen und fachpolitische
 Erkenntnisse bringen es aber mit sich, dass es weiterentwickelt werden
@@ -1140,7 +1137,9 @@ leisten.
 Wir werden weitere Maßnahmen gegen weibliche Genitalverstümmelung
 ergreifen.
 
-Kinder- und Jugendmedienschutz Die digitalen Medien eröffnen für Kinder
+#### Kinder- und Jugendmedienschutz
+
+Die digitalen Medien eröffnen für Kinder
 und Jugendliche viele Chancen. Gleichzeitig sind sie ständig und
 ortsunabhängig ansprechbar und dadurch massiven neuartigen Risiken
 ausgesetzt. Der Anstieg von Cybermobbing, Grooming und sexualisierter
@@ -2855,22 +2854,29 @@ Im Teilzeit- und Befristungsrecht wird ein Recht auf befristete Teilzeit
 eingeführt. Insbesondere für Frauen ist es wichtig, nach einer
 Familienphase ihre beruflichen Pläne voll verwirklichen zu können.
 Gegenüber dem Referentenentwurf zur Weiterentwicklung des Teilzeitrechts
-werden folgende Änderungen vereinbart: 1. Es besteht kein Anspruch auf
+werden folgende Änderungen vereinbart:
+
+1. Es besteht kein Anspruch auf
 Verlängerung oder Verkürzung der Arbeitszeit oder vorzeitige Rückkehr
 zur früheren Arbeitszeit während der zeitlich begrenzten Teilzeitarbeit.
+
 2. Der neue Teilzeitanspruch nach diesem Gesetz gilt nur für
 Unternehmen, die in der Regel insgesamt mehr als 45 Mitarbeiterinnen und
-Mitarbeiter beschäftigen. 3. Für Unternehmensgrößen von 46 bis 200
+Mitarbeiter beschäftigen.
+
+3. Für Unternehmensgrößen von 46 bis 200
 Mitarbeiterinnen und Mitarbeiter wird eine Zumutbarkeitsgrenze
 eingeführt, dass lediglich einem pro angefangenen Mitarbeiterinnen und
 Mitarbeiter der Anspruch gewährt werden muss. Bei der Berechnung der
 zumutbaren Zahlen an Freistellungen werden die ersten 45
 Mitarbeiterinnen und Mitarbeiter mitgezählt. Bei Überschreitung dieser
-Grenze kann der Arbeitgeber einen Antrag ablehnen. 4. Der Arbeitgeber
-kann eine befristete Teilzeit ablehnen, wenn diese ein Jahr unter- oder
-fünf Jahre überschreitet. Die Tarifvertragsparteien erhalten die
-Möglichkeit, hiervon abweichende Regelungen zu vereinbaren. 5. Nach
-Ablauf der zeitlich begrenzten Teilzeitarbeit kann die Arbeitnehmerin
+Grenze kann der Arbeitgeber einen Antrag ablehnen.
+
+4. Der Arbeitgeber kann eine befristete Teilzeit ablehnen, wenn diese
+ein Jahr unter- oder fünf Jahre überschreitet. Die Tarifvertragsparteien
+erhalten die Möglichkeit, hiervon abweichende Regelungen zu vereinbaren.
+
+5. Nach Ablauf der zeitlich begrenzten Teilzeitarbeit kann die Arbeitnehmerin
 oder der Arbeitnehmer frühestens nach einem Jahr eine erneute
 Verringerung der Arbeitszeit verlangen.
 
