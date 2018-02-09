@@ -13,7 +13,7 @@ date: "Berlin, 7. Februar 2018"
 # Präambel
 
 Wir erleben neue politische Zeiten mit vielfältigen Herausforderungen
-für Deutschland -- sowohl international als auch national. Deutschland
+für Deutschland --- sowohl international als auch national. Deutschland
 ist weltweit ein anerkannter Partner, aber nur mit einem neuen Aufbruch
 für Europa wird Deutschland langfristig Frieden, Sicherheit und
 Wohlstand garantieren können. Die Europäische Union muss ihre Werte und
@@ -120,7 +120,7 @@ wir seinem Erfolg verpflichtet. Für Deutschland ist ein starkes und
 geeintes Europa der beste Garant für eine gute Zukunft in Frieden,
 Freiheit und Wohlstand.
 
-So einzigartig die Erfolgsgeschichte der europäischen Einigung ist --
+So einzigartig die Erfolgsgeschichte der europäischen Einigung ist ---
 selbstverstänlich ist ihr Fortgang keineswegs. Die Herausforderungen,
 vor denen die Europäische Union steht, sind enorm. Das Vereinigte
 Königreich hat sich zum Austritt aus der EU entschlossen. Die
@@ -369,7 +369,7 @@ gegenseitiger Solidarität gerecht wird.
 # Eine neue Dynamik für Deutschland
 
 Eine neue Dynamik für Deutschland Wir wollen, dass Deutschland ein
-wirtschaftlich starkes und sozial gerechtes Land ist -- und dass alle
+wirtschaftlich starkes und sozial gerechtes Land ist --- und dass alle
 daran teilhaben. Wir wollen den Zusammenhalt in unserem Land stärken und
 dafür sorgen, dass die Bürgerinnen und Bürger sicher und gut leben
 können.
@@ -378,7 +378,7 @@ Wir wollen unser Land modernisieren, Innovationskräfte freisetzen und
 das Wohlstands- und Sicherheitsversprechen unserer Sozialen
 Marktwirtschaft im digitalen Zeitalter erneuern.
 
-Deutschland -- das sind mehr als 80 Millionen Menschen: Ihnen wollen wir
+Deutschland --- das sind mehr als 80 Millionen Menschen: Ihnen wollen wir
 eine gute Zukunft bieten. Ihren Alltag wollen wir spürbar verbessern,
 ihre Sorgen ernst nehmen und ihnen neue Chancen eröffnen. Deshalb leitet
 uns bei jeder politischen Maßnahme die Frage: Was erreichen wir ganz
@@ -387,7 +387,7 @@ konkret für die Bürgerinnen und Bürger unseres Landes?
 Wir haben uns daher mutige und überprüfbare Ziele für die nächsten vier
 Jahre gesetzt. Deutschland soll 2021 noch gerechter, wirtschaftlich
 stärker, sicherer und lebenswerter in allen Regionen sein. Wir wollen
-einen neuen Aufbruch für Europa und eine neue Dynamik für Deutschland --
+einen neuen Aufbruch für Europa und eine neue Dynamik für Deutschland ---
 in allen Bereichen, unter anderem mit folgenden Maßnahmen, die in den
 Fachkapiteln verbindlich beschrieben sind.
 
@@ -540,7 +540,7 @@ Fachkapiteln verbindlich beschrieben sind.
 #### Finanzen und Steuern
 
 -   Wir setzen auf stabile Finanzen: Ziel weiterhin ausgeglichener
-    Haushalt -- keine neuen Schulden. Keine Erhöhung der Steuerbelastung
+    Haushalt --- keine neuen Schulden. Keine Erhöhung der Steuerbelastung
     der Bürgerinnen und Bürger.
 
 -   Wir schaffen den Soli schrittweise ab: Abschaffung
@@ -781,7 +781,7 @@ Fachkapiteln verbindlich beschrieben sind.
 
 -   Wir verbessern die Rechte von Opfern von Kriminalität und Terror:
     Neuregelung der Opferentschädigung. Besserer Schutz von Kindern im
-    Internet. Einrichtung einer/s ständigen Opferbeauftragte/n -- auch
+    Internet. Einrichtung einer/s ständigen Opferbeauftragte/n --- auch
     für die Angehörigen.
 
 -   Wir bekämpfen konsequent Wirtschaftskriminalität, Einbruchdiebstahl
@@ -826,7 +826,7 @@ Fachkapiteln verbindlich beschrieben sind.
     Bekenntnis zu internationalen Bündnissen NATO, UN und OSZE sowie zu
     transatlantischer Partnerschaft. Mehr Mittel für
     Entwicklungszusammenarbeit, zivile Krisenprävention, humanitäre
-    Hilfe, Verteidigung und Bundeswehr -- zusätzlich finanzielle Mittel
+    Hilfe, Verteidigung und Bundeswehr --- zusätzlich finanzielle Mittel
     für diese Bereiche sollen im Verhältnis 1:1 prioritär erhöht werden.
 
 -   Wir stärken unsere Bundeswehr und die europäische
@@ -862,7 +862,7 @@ Fachkapiteln verbindlich beschrieben sind.
     -Investitions- und -Wirtschaftspartnerschaftsabkommen. Globale
     Nachhaltigkeitsstrategie Agenda 2030 als Richtschnur deutscher Politik.
 
-#### Zusammenhalt und Erneuerung -- Demokratie beleben (Kapitel XIII)
+#### Zusammenhalt und Erneuerung --- Demokratie beleben (Kapitel XIII)
 
 -   Wir machen Kulturpolitik für das ganze Land: „Agenda für Kultur und
     Zukunft“ mit Ländern, Kommunen und Zivilgesellschaft. Neues
@@ -875,7 +875,7 @@ Fachkapiteln verbindlich beschrieben sind.
     bundesgeförderte Kultureinrichtungen.
 
 -   Wir wollen das Gedenken wachhalten: Kampf gegen Antisemitismus.
-    Programm „Jugend erinnert“ -- Besuche von Gedenkorten und
+    Programm „Jugend erinnert“ --- Besuche von Gedenkorten und
     Workshops. Mehr Unterstützung auch für kleine zivilgesellschaftliche
     Initiativen.
 
@@ -916,7 +916,7 @@ können.
 
 Das Kindergeld als bewährte und wirksame familienpolitische Leistung
 werden wir in dieser Legislaturperiode pro Kind um 25 Euro pro Monat
-erhöhen -- in zwei Teilschritten (zum 1. Juli 2019 um zehn Euro, zum 1.
+erhöhen --- in zwei Teilschritten (zum 1. Juli 2019 um zehn Euro, zum 1.
 Januar 2021 um weitere 15 Euro). Gleichzeitig steigt der steuerliche
 Kinderfreibetrag entsprechend.
 
@@ -1027,7 +1027,7 @@ Gesellschaft und Erwerbstä- tigkeit legen. Wir wollen daher das
 erfolgreiche Programm „Stark im Beruf“ fortsetzen.
 
 Wir respektieren geschlechtliche Vielfalt. Alle Menschen sollen
-unabhängig von ihrer sexuellen Identität frei und sicher leben können --
+unabhängig von ihrer sexuellen Identität frei und sicher leben können ---
 mit gleichen Rechten und Pflichten. Homosexuellen- und
 Transfeindlichkeit verurteilen wir und wirken jeder Diskriminierung
 entgegen. Wir werden die Vorgaben des Bundesverfassungsgerichts hierzu
@@ -1121,7 +1121,7 @@ sich ziehen, Schutzlücken müssen geschlossen werden.
 
 In familiengerichtlichen Verfahren muss bei Hinweisen auf
 (sexualisierte) Gewalt zur Einschätzung der Gefährdungslage eine
-Stellungnahme von Fachleuten für Gewaltschutz und -- soweit relevant --
+Stellungnahme von Fachleuten für Gewaltschutz und --- soweit relevant ---
 der Rechtsmedizin eingeholt werden. Das Umgangsrecht darf dem
 Gewaltschutz nicht zuwiderlaufen.
 
@@ -1148,8 +1148,8 @@ besorgniserregend. Zeitgemäßer Jugendmedienschutz muss den Schutz von
 Kindern und Jugendlichen vor gefährdenden Inhalten sicherstellen, den
 Schutz ihrer Persönlichkeitsrechte und ihrer Daten gewährleisten und die
 Instrumente zur Stärkung der Medienkompetenz weiterentwickeln. Daher
-werden wir einen zukunftsfähigen und kohä- renten Rechtsrahmen -- unter
-Berücksichtigung der kompetenzrechtlichen Zuständigkeiten der Länder --
+werden wir einen zukunftsfähigen und kohä- renten Rechtsrahmen --- unter
+Berücksichtigung der kompetenzrechtlichen Zuständigkeiten der Länder ---
 für den Kinder- und Jugendmedienschutz im
 Jugendmedienschutzstaatsvertrag und Jugendschutzgesetz schaffen.
 
@@ -1258,13 +1258,13 @@ Frauen und Männer auch in Parlamenten auf allen Ebenen gleichberechtigt
 beteiligt sind und deshalb verstärkt Frauen für die politische
 Beteiligung gewinnen. Um eine höhere Repräsentanz von Frauen in der
 Politik zu erreichen und mehr Frauen den Weg in die Politik zu ebnen,
-werden wir bewährte politische Programme -- wie das Helene-Weber-Kolleg
-und den Helene-WeberPreis -- verstetigen. Wir wollen eine Bundesstiftung
+werden wir bewährte politische Programme --- wie das Helene-Weber-Kolleg
+und den Helene-WeberPreis --- verstetigen. Wir wollen eine Bundesstiftung
 gründen, die sich wissenschaftlich fundiert insbesondere Fragen der
 gerechten Partizipation von Frauen in Gesellschaft, Politik, Wirtschaft
 und Wissenschaft widmet.
 
-Sexismus begegnet uns täglich und überall -- in Medien und Kultur, in
+Sexismus begegnet uns täglich und überall --- in Medien und Kultur, in
 der Werbung, am Arbeitsplatz und in der Politik. Sexismus würdigt
 Menschen aufgrund ihres Geschlechts herab. In einer offenen, modernen
 und gleichberechtigten Gesellschaft hat Sexismus keinen Platz. Wir
@@ -1368,8 +1368,8 @@ unterschiedlicher Wohnformen, um den vielfältigen Bedürfnissen und
 Wünschen älterer Menschen gerecht zu werden und die Selbstbestimmung im
 Alter zu ermöglichen. Dazu wollen wir das bewährte Programm
 „Demografiewerkstatt Kommune“ ausbauen. Wir wollen Hürden beim Ausbau
-alternativer Unterstützungs- und Wohnformen -- wie z. B. bei der
-steuerrechtlichen Bewertung von „Wohnen für Hilfe“ -- beseitigen und
+alternativer Unterstützungs- und Wohnformen --- wie z. B. bei der
+steuerrechtlichen Bewertung von „Wohnen für Hilfe“ --- beseitigen und
 Seniorengenossenschaften stärken.
 
 Die Mehrgenerationenhäuser stellen bundesweit, besonders für den
@@ -1716,8 +1716,8 @@ Dauer angelegte Strategie für Nationales Hochleistungsrechnen nach Art.
 91b Grundgesetz (GG) auflegen und diese gemeinsam finanzieren.
 
 Die Forschungsinfrastrukturen an Hochschulen und außeruniversitären
-Forschungseinrichtungen wollen wir -- auch in internationaler
-Kooperation -- ausbauen.
+Forschungseinrichtungen wollen wir --- auch in internationaler
+Kooperation --- ausbauen.
 
 Wir wollen eine nationale Open-Access-Strategie entwickeln. Wir werden
 offene Kanäle für wissenschaftliche Kommunikation und Publikation
@@ -1785,7 +1785,7 @@ Entwicklung aufzuwenden.
 Für strukturschwache Regionen in ganz Deutschland, in denen es an
 unternehmerischer Innovationskraft fehlt, wollen wir mit einem
 Rahmenprogramm „Innovation und Strukturwandel“ zielgenaue
-Förderinstrumente entwickeln, z. B. durch das Programm „WIR -- Wandel in
+Förderinstrumente entwickeln, z. B. durch das Programm „WIR --- Wandel in
 der Region durch Innovation“ sowie weitere Maßnahmen zum Ausbau der
 Innovationskompetenz an regionalen Hochschulen und
 Forschungseinrichtungen und zur Vernetzung von Innovationsakteuren vor
@@ -2371,7 +2371,7 @@ zur Entwicklung hochwertiger digitaler Spiele einführen, um den
 Entwicklerstandort Deutschland zu stärken und international
 wettbewerbsfähig zu machen.
 
-Sicheres Leben in Deutschland -- auch online Damit Bürgerinnen und
+Sicheres Leben in Deutschland --- auch online Damit Bürgerinnen und
 Bürger, Unternehmen und Institutionen die Potenziale der Digitalisierung
 wahrnehmen, braucht es ein grundlegendes Vertrauen in die Sicherheit und
 Vertraulichkeit von Kommunikation, Daten und IT-Strukturen.
@@ -2492,7 +2492,7 @@ grundsätzlich kostenfrei zur Verfügung stehen. Damit kann auch ein
 wichtiger Beitrag zur Entwicklung innovativer Technologien und neuer
 Geschäftsmodelle geleistet werden.
 
-Daten -- Rohstoff und sensibles Gut Daten sind der Treibstoff für
+Daten --- Rohstoff und sensibles Gut Daten sind der Treibstoff für
 Innovationen und neue Dienste. Diese wollen wir ermöglichen und
 gleichzeitig den hohen und weltweit angesehenen Datenschutzstandard
 Europas und Deutschlands halten.
@@ -2649,8 +2649,8 @@ Daher soll die Regulierungsbehörde eng mit den Medienanstalten der
 Länder zusammenarbeiten und diese in die Aufsicht über die
 Medienvielfalt einbeziehen.
 
-Bei der Revision der E-Commerce-Richtlinie werden wir prüfen, ob es --
-vor dem Hintergrund der Rechtsprechung des EuGH -- eine
+Bei der Revision der E-Commerce-Richtlinie werden wir prüfen, ob es ---
+vor dem Hintergrund der Rechtsprechung des EuGH --- eine
 Weiterentwicklung der Hostproviderhaftung und einer Konkretisierung des
 Notice-and-Takedown-Verfahrens bedarf. Am Grundsatz der bewährten
 abgestuften Haftungsprivilegierung halten wir fest.
@@ -2898,8 +2898,8 @@ werden.
 
 Um weltweit gute Arbeit zu fördern und soziale Ungleichheit abzubauen,
 wollen wir die internationale Zusammenarbeit im Rahmen der Vereinten
-Nationen -- insbesondere der Internationalen Arbeitsorganisation (ILO)
--- vertiefen und die Zusammenarbeit in den G7 und G20 im Bereich der
+Nationen --- insbesondere der Internationalen Arbeitsorganisation (ILO)
+--- vertiefen und die Zusammenarbeit in den G7 und G20 im Bereich der
 Beschäftigungs- und Sozialpolitik weiter voranbringen. Unsere Strategie
 zur Bekämpfung von Zwangsarbeit, Kinderarbeit und Arbeitsausbeutung soll
 fortgesetzt, verstetigt und intensiviert werden.
@@ -3109,8 +3109,8 @@ Energieeffizienz und damit zu einem besseren Umwelt- und Klimaschutz
 bei. Deshalb wollen wir die Förderung dieser Schlüsseltechnologie mit
 dem Ziel einer breiteren industriellen Anwendung konsequent fortsetzen
 und ausbauen sowie branchenübergreifende Kooperationen prüfen. Wir
-wollen den „Neuen Werkstoffen“ -- wie bionisch optimierte Werkstoffe
-und Adaptive Werkstoffe -- verstärkte Aufmerksamkeit widmen und vor
+wollen den „Neuen Werkstoffen“ --- wie bionisch optimierte Werkstoffe
+und Adaptive Werkstoffe --- verstärkte Aufmerksamkeit widmen und vor
 allem die branchenübergreifende Forschungsförderung mit dem Schwerpunkt
 Mittelstand in diesem Bereich ausbauen. Der Wandel zu einer auf
 erneuerbaren Ressourcen beruhenden Wirtschaft soll mit Hilfe der
@@ -3119,7 +3119,7 @@ einen Dialog zwischen der Industrie und den gesellschaftlichen Akteuren
 über die Anforderungen an eine veränderte Rohstoffbasis im Rahmen einer
 Plattform initiieren.
 
-Die Mobilität -- und damit die Automobilwirtschaft -- steht aktuell vor
+Die Mobilität --- und damit die Automobilwirtschaft --- steht aktuell vor
 enormen Herausforderungen. Klimaschutz, Luftreinhaltung, neue
 Mobilitäts- und Geschäftsmodelle sowie sich stark divergent entwickelnde
 Weltmärkte sind hierbei bedeutende Aspekte. Das gemeinsame Ziel, das
@@ -3195,7 +3195,7 @@ bleibt davon unbenommen. Die Projektförderungen wie z. B. das Zentrale
 Innovationsprogramm Mittelstand (ZIM), Industrielle
 Gemeinschaftsforschung (IGF) und die Forschungs- und
 Entwicklungs-Förderung externer Industrieforschungseinrichtungen
-(Innovationskompetenz -- INNO-KOM) werden weitergeführt sowie
+(Innovationskompetenz --- INNO-KOM) werden weitergeführt sowie
 transparenter und unbürokratischer gestaltet. Soziale Innovationen haben
 unsere Unterstützung.
 
@@ -3271,7 +3271,7 @@ eine beihilferechtliche Flankierung des gesamtdeutschen
 Strukturfördersystems zu erreichen.
 
 Digitalisierung Auf EU-Ebene werden wir uns für eine rasche Vollendung
-des digitalen Binnenmarkts einsetzen -- mit flächendeckend
+des digitalen Binnenmarkts einsetzen --- mit flächendeckend
 leistungsfähigen Breitbandnetzen, einem schnellen und einfachen Zugang
 zu digitalen Innovationen und Rahmenbedingungen, die Unternehmen und
 Startups eine unbürokratische Skalierung von digitalen Geschäftsmodellen
@@ -3583,7 +3583,7 @@ transatlantischen Wirtschaftsbeziehungen.
 Wir wollen das Außenwirtschaftsförderinstrumentarium, insbesondere in
 Bezug auf neue Märkte und mit dem Schwerpunkt Afrika, weiterentwickeln.
 Wir nehmen bewusst die Zukunftsthemen des afrikanischen Kontinents in
-den Fokus -- Digitalisierung, Innovation und Ausbildung -- und setzen zu
+den Fokus --- Digitalisierung, Innovation und Ausbildung --- und setzen zu
 diesem Zwecke das Eckpunktepapier zur wirtschaftlichen Entwicklung
 Afrikas um, u. a. durch die Stärkung privater Investitionen,
 Hermes-Bürgschaften und innovativer Finanzierungsinstrumente. Das
@@ -3664,8 +3664,8 @@ Wir stellen die weitere Finanzierung der laufenden Maßnahmen zur
 Entlastung von Ländern und Kommunen bei den Flüchtlingskosten
 (Integrationspauschale, Kosten der Unterkunft, unbegleitete
 minderjährige Flüchtlinge) in den Jahren bis 2021 mit insgesamt weiteren
-acht Milliarden Euro sicher und gestalten sie gemeinsam -- wo
-erforderlich -- effizienter neu aus.
+acht Milliarden Euro sicher und gestalten sie gemeinsam --- wo
+erforderlich --- effizienter neu aus.
 
 Wir wollen durch die konkrete Programmgestaltung sicherstellen, dass die
 Mittel, die der Bund für definierte Aufgaben, z. B. den sozialen
@@ -3704,7 +3704,7 @@ automatischen Informationsaustausches abgeschafft; Umgehungstatbestände
 werden wir verhindern. An dem bisherigen Ziel der Einführung einer
 Finanztransaktionsteuer im europäischen Kontext halten wir fest.
 
-In Deutschland wollen wir einen gerechten Steuervollzug -- von der
+In Deutschland wollen wir einen gerechten Steuervollzug --- von der
 Steuererhebung bis zur Steuerprüfung. Sämtliche aus einer Straftat
 erlangten Vermögenswerte und alle rechtswidrigen Gewinne sollen
 konsequent eingezogen werden.
@@ -3922,8 +3922,8 @@ Wir werden:
 
 -   unter Anerkennung der zunehmenden Verantwortung der
     Stromverteilnetzbetreiber den Regulierungsrahmen weiterentwickeln,
-    um Investitionen in intelligente Lö- sungen (Digitalisierung) --
-    gerade auch im Bereich der Verteilnetze -- zu flankieren;
+    um Investitionen in intelligente Lö- sungen (Digitalisierung) ---
+    gerade auch im Bereich der Verteilnetze --- zu flankieren;
 
 -   im Rahmen des gesetzlichen Monitorings die Bezahlbarkeit von Energie
     und die Versorgungssicherheit regelmäßig bewerten. Außerdem werden
@@ -3971,9 +3971,9 @@ Wir werden:
     flexibilisieren. Wir wollen KWK-Anlagen und die
     Fernwärmeinfrastruktur ausbauen und effizienter machen;
 
--   die Planung und Finanzierung von Energieinfrastrukturen --
+-   die Planung und Finanzierung von Energieinfrastrukturen ---
     einschließlich der bestehenden Gas- und Wärmeinfrastruktur für die
-    Sektorkopplung -- so reformieren, dass die verschiedenen
+    Sektorkopplung --- so reformieren, dass die verschiedenen
     Infrastrukturen koordiniert energiewendetauglich und kosteneffizient
     weiterentwickelt werden;
 
@@ -4100,8 +4100,8 @@ Mobilität und Umwelt Wir werden eine Kommission unter Einbeziehung der
 unterschiedlichen Akteure aus Politik, Wirtschaft, Umweltverbänden,
 Gewerkschaften sowie betroffenen Ländern und Regionen einsetzen, die bis
 Anfang 2019 eine Strategie „Zukunft der bezahlbaren und nachhaltigen
-Mobilität“ mit verlässlicher Zeitschiene erarbeitet. Die Mobilität --
-und damit die Automobilwirtschaft -- stehen aktuell vor enormen
+Mobilität“ mit verlässlicher Zeitschiene erarbeitet. Die Mobilität ---
+und damit die Automobilwirtschaft --- stehen aktuell vor enormen
 Herausforderungen. Klimaschutz, Luftreinhaltung, neue Mobilitäts- und
 Geschäftsmodelle und sich stark divergent entwickelnde Weltmärkte sind
 hierbei bedeutende Aspekte. Die Mobilitätspolitik ist dem Pariser
@@ -4123,8 +4123,8 @@ die Emissionsgrenzwerte im Rahmen ihrer Luftreinhaltepläne mit anderen
 Maßnahmen als mit pauschalen Fahrverboten einzuhalten.
 
 Wir wollen insbesondere die Schadstoffemissionen aus dem Straßenverkehr
-an der Quelle weiter reduzieren. Dazu gehören -- soweit technisch
-möglich und wirtschaftlich vertretbar -- technische Verbesserungen von
+an der Quelle weiter reduzieren. Dazu gehören --- soweit technisch
+möglich und wirtschaftlich vertretbar --- technische Verbesserungen von
 Fahrzeugen im Bestand. Wir werden im Jahr 2018 auf Basis der Ergebnisse
 der laufenden Untersuchungen zu HardwareNachrüstungsvarianten in der
 Arbeitsgruppe „Technische Nachrüstung“ und den weiteren Entscheidungen
@@ -4182,7 +4182,7 @@ Brennstoffzelle) in Deutschland deutlich voranbringen und die bestehende
 Förderkulisse, wo erforderlich, über das Jahr 2020 hinaus aufstocken und
 ergänzen. Wir wollen den Aufbau einer flächendeckenden Lade- und
 Tankinfrastruktur intensivieren. Ziel ist, bismindestens 100 000
-Ladepunkte für Elektrofahrzeuge zusätzlich verfügbar zu machen -- wovon
+Ladepunkte für Elektrofahrzeuge zusätzlich verfügbar zu machen --- wovon
 mindestens ein Drittel Schnellladesäulen (DC) sein sollen. Zudem wollen
 wir die Errichtung von privaten Ladesäulen fördern. Für eine nachhaltige
 Umstellung der Busflotten auf alternative Antriebe sind neben den
@@ -4359,14 +4359,14 @@ Straßengesetz“ erarbeiten.
 Wir wollen den erfolgreichen Aufbau der „Digitalen Testfelder
 Autobahnen“ weiterführen und Digitale Testfelder auf der Straße
 (insbesondere in den Städten), Schiene und Wasserstraße („autonomes
-Fahren auf der Elbe“ -- Elbe 4.0) unterstützen. Wir werden
+Fahren auf der Elbe“ --- Elbe 4.0) unterstützen. Wir werden
 Fahrerassistenzsysteme wie nicht abschaltbare Notbremssysteme oder
 Abbiegeassistenten für Lkw und Busse verbindlich vorschreiben und eine
 Nachrüstpflicht für Lkw- Abstandswarnsysteme prüfen.
 
 Wir wollen, dass die Nutzerinnen und Nutzer des ÖPNV künftig mit einem
-elektronischen Ticket (eTicket) bargeldlos -- vorzugsweise mit einer
-Anwendung im Smartphone -- über Verkehrsverbünde hinweg, bundesweit
+elektronischen Ticket (eTicket) bargeldlos --- vorzugsweise mit einer
+Anwendung im Smartphone --- über Verkehrsverbünde hinweg, bundesweit
 fahren können. Wir werden die Verknüpfung der Verkehrsträger verbessern,
 indem wir bessere Informationen in Echtzeit zur Verfügung stellen. Im
 Rahmen der internetbasierten Fahrzeugzulassung (i-Kfz) werden wir die
@@ -4457,8 +4457,8 @@ Wir werden das Maritime Bündnis unter Einbeziehung der Gewerkschaften
 stärken. Wir werden in Deutschland maritimes Know-how erhalten und dazu
 die maritime Ausbildung stärken. Die Auswirkungen der
 Entlastungsoffensive für die deutsche Flagge werden evaluiert. Bei
-Bedarf wollen wir das Gesamtpaket -- einschließlich der
-Ausbildungsplatzförderung -- anpassen. Die Optimierung und
+Bedarf wollen wir das Gesamtpaket --- einschließlich der
+Ausbildungsplatzförderung --- anpassen. Die Optimierung und
 Modernisierung der Flaggenstaatverwaltung werden wir weiter
 voranbringen. Dazu gehört sowohl die Überprüfung und gegebenenfalls
 Anpassung der bisherigen Strukturen als auch die komplett elektronische
@@ -4483,11 +4483,11 @@ digitales Testfeld Hamburger Hafen).
 
 Das Förderprogramm Innovative Hafentechnologien wollen wir über 2020
 hinaus verlängern. Unser Ziel ist, dass die Häfen ihre Stärken künftig
-gemeinsam noch besser nutzen -- beispielsweise als „German Ports".
+gemeinsam noch besser nutzen --- beispielsweise als „German Ports".
 
 Zur Stärkung der Wettbewerbsfähigkeit der Binnenschifffahrt wollen wir
 die Befahrensabgaben für die Nutzung der Binnenwasserstraßen
-(ausgenommen der Nord-Ostsee-Kanal -- NOK) abschaffen.
+(ausgenommen der Nord-Ostsee-Kanal --- NOK) abschaffen.
 
 Das Förderprogramm „Nachhaltige Modernisierung von Binnenschiffen“
 wollen wir fortsetzen und ausbauen. Fördern wollen wir zudem alternative
@@ -4576,13 +4576,13 @@ mitwirken.
 
 ## Landwirtschaft und Ernährung
 
-Unser Ziel ist eine nachhaltige flächendeckende Landwirtschaft -- sowohl
+Unser Ziel ist eine nachhaltige flächendeckende Landwirtschaft --- sowohl
 ökologisch als auch konventionell. Nachhaltige Landwirtschaft und
 Naturschutz sind keine Gegensätze. Wir wollen eine multifunktional
 ausgerichtete, bäuerlich-unternehmerische, familiengeführte und regional
 verwurzelte Landwirtschaft erhalten. Der gesellschaftlich geforderte
 Wandel in der Landwirtschaft und die veränderten Erwartungen der
-Verbraucher bedürfen einer finanziellen Förderung -- national wie
+Verbraucher bedürfen einer finanziellen Förderung --- national wie
 europäisch.
 
 Gemeinsame Europäische Agrarpolitik Dafür bedarf es einer
@@ -4653,8 +4653,8 @@ wir mit zusätzlichem Personal aus, um die Zulassungsverfahren zügig
 durchführen zu können. Wir sorgen für eine bessere Transparenz der
 Zulassungsverfahren für Wirkstoffe und Pflanzenschutzmittel auf EU- und
 nationaler Ebene. Wir werden die Forschung verstärken, um die Bandbreite
-innovativer und vorhandener Pflanzenschutzmittel -- auch im ökologischen
-Landbau -- zu erweitern. Wir beziehen in diese Strategie auch den
+innovativer und vorhandener Pflanzenschutzmittel --- auch im ökologischen
+Landbau --- zu erweitern. Wir beziehen in diese Strategie auch den
 Garten- und Weinbau sowie die Forstwirtschaft mit ein. Wir werden die
 Ackerbaustrategie durch ein Innovationsprogramm für digital-mechanische
 Methoden, z. B. zur Unkrautbekämpfung und Bodenlockerung, ergänzen. Dies
@@ -4682,7 +4682,7 @@ im Bereich der Digitalisierung in der Land- und Forstwirtschaft werden
 wir in Kooperation mit den Ländern, dem Berufsstand und den
 Sozialpartnern eine Aus-, Fort- und Weiterbildungsstrategie entwickeln.
 
-Tierschutz, Tierwohllabel und Nutztierhaltung -- Deutschland soll beim
+Tierschutz, Tierwohllabel und Nutztierhaltung --- Deutschland soll beim
 Tierschutz eine Spitzenposition einnehmen. Die Erkennbarkeit von
 tierischen Lebensmitteln, die über die gesetzlichen Vorgaben der Haltung
 hinausgehen, wollen wir verlässlich, einfach und verbraucherfreundlich
@@ -4859,8 +4859,8 @@ die Lebensqualität der Betroffenen und verursacht hohe Kosten für das
 Gesundheits- und Sozialsystem. Wir wollen die Wertschätzung für
 Lebensmittel in der Gesellschaft erhöhen. Lebensmittel haben ihren Wert
 und sollten nicht als Lockangebote verkauft werden. Wir wollen dazu
-beitragen, die Vielfalt von Erzeugern -- insbesondere mit kleinen und
-mittleren Unternehmen -- und hochwertigen Lebensmitteln zu erhalten und
+beitragen, die Vielfalt von Erzeugern --- insbesondere mit kleinen und
+mittleren Unternehmen --- und hochwertigen Lebensmitteln zu erhalten und
 die Lebensmittelverschwendung einzudämmen. Neugründungen im
 Lebensmittelbereich werden wir unterstützend begleiten. Der
 Ernährungsbildung messen wir großen Wert bei.
@@ -5046,7 +5046,7 @@ eine gründerfreundlich ausgestaltete Altersvorsorgepflicht für alle
 Selbstständigen einführen, die nicht bereits anderweitig obligatorisch
 (z. B. in berufsständischen Versorgungswerken) abgesichert sind.
 Grundsätzlich sollen Selbstständige zwischen der gesetzlichen
-Rentenversicherung und -- als Opt-out-Lösung -- anderen geeigneten
+Rentenversicherung und --- als Opt-out-Lösung --- anderen geeigneten
 insolvenzsicheren Vorsorgearten wählen können. Wobei diese insolvenz-
 und pfändungssicher sein und in der Regel zu einer Rente oberhalb des
 Grundsicherungsniveaus führen müssen. Zudem werden wir die
@@ -5065,7 +5065,7 @@ sollen für Mütter und Väter gelten, die drei und mehr Kinder erzogen
 haben.
 
 Zur Sicherung der bundesweiten Versorgung mit Presseerzeugnissen für
-alle Haushalte -- in Stadt und Land gleichermaßen -- wird bei Minijobs
+alle Haushalte --- in Stadt und Land gleichermaßen --- wird bei Minijobs
 von Zeitungszustellerinnen und Zeitungszustellern der Beitrag zur
 Rentenversicherung, den die Arbeitgeberinnen und Arbeitgeber zu tragen
 haben, befristet für die Dauer von fünf Jahren bis zum 31. Dezember
@@ -5590,7 +5590,7 @@ Risikostrukturausgleich mit dem Ziel eines fairen Wettbewerbs
 weiterentwickeln und ihn vor Manipulation schützen. Es wird eine
 regelmäßige gutachterliche Überprüfung gesetzlich festgelegt.
 
-# Zuwanderung steuern -- Integration fordern und unterstützen
+# Zuwanderung steuern --- Integration fordern und unterstützen
 
 ## Flüchtlingspolitik
 
@@ -5620,9 +5620,9 @@ damit sich eine Situation wie 2015 nicht wiederholt.
 
 Bezogen auf die durchschnittlichen Zuwanderungszahlen, die Erfahrungen
 der letzten zwanzig Jahre sowie mit Blick auf die vereinbarten Maßnahmen
-und den unmittelbar steuerbaren Teil der Zuwanderung -- das Grundrecht
+und den unmittelbar steuerbaren Teil der Zuwanderung --- das Grundrecht
 auf Asyl und die Genfer Flüchtlingskonvention (GFK) bleiben unangetastet
--- stellen wir fest, dass die Zuwanderungszahlen (inklusive
+--- stellen wir fest, dass die Zuwanderungszahlen (inklusive
 Kriegsflüchtlinge, vorübergehend Schutzberechtigte, Familiennachzügler,
 Relocation, Resettlement, abzüglich Rückführungen und freiwilligen
 Ausreisen künftiger Flüchtlinge und ohne Erwerbsmigration) die Spanne
@@ -6122,8 +6122,8 @@ Gemeinden als Instrument der Orientierung und des Rechtsfriedens stärker
 zu Anwendung kommen.
 
 Wir wollen mit einer gesetzlichen Auskunftspflicht des Vermieters
-bezüglich der Vormiete -- wenn sich der Vermieter bei der Begründung des
-Mietverhältnisses auf diese beruft -- mehr Transparenz bei der
+bezüglich der Vormiete --- wenn sich der Vermieter bei der Begründung des
+Mietverhältnisses auf diese beruft --- mehr Transparenz bei der
 Mietpreisbremse erreichen.
 
 Die Mietpreisbremse wird frühzeitig bis Ende 2018 auf Geeignetheit und
@@ -6428,8 +6428,8 @@ Förderprogramme mit neuen Akzenten fortsetzen Wir werden die
 Städtebauförderung fortsetzen und mit Blick auf die Förderung von
 strukturschwachen Regionen, einer Stärkung von interkommunalen
 Kooperationen und Stadt-/Umlandpartnerschaften weiterentwickeln. Ein
-Schwerpunkt liegt dabei -- unter Berücksichtigung der ländlichen
-Regionen -- auf der Belebung von Orts- und Stadtkernen.
+Schwerpunkt liegt dabei --- unter Berücksichtigung der ländlichen
+Regionen --- auf der Belebung von Orts- und Stadtkernen.
 
 Erfolgreiche Modellvorhaben zur ländlichen Entwicklung werden wir zügig
 in die Regelförderung überführen und diese auch für die Unterstützung
@@ -6454,7 +6454,7 @@ Europäischen Binnenmarkt und bei Freihandelsabkommen ein.
 Stärkung der Zivilgesellschaft und des Ehrenamts Ein starkes Ehrenamt
 und ausgeprägtes bürgerschaftliches Engagement sind Markenzeichen
 unseres Landes. Millionen von Menschen sind freiwillig für das
-Gemeinwohl aktiv -- vom individuellen Engagement bis zum Ehrenamt, z. B.
+Gemeinwohl aktiv --- vom individuellen Engagement bis zum Ehrenamt, z. B.
 in Sportvereinen, Kirchen, Stiftungen, Vereinen, Migrantenorganisationen
 und der Wohlfahrtspflege. In ländlichen Regionen ist das Ehrenamt eine
 tragende Säule eines lebendigen und funktionierenden Gemeinwesens.
@@ -6524,7 +6524,7 @@ gilt insbesondere auch mit Blick auf die Integration der Muslime in
 Deutschland.
 
 Wir wollen eine teilhabeorientierte Gesellschaftspolitik für alle
-Menschen -- ob mit oder ohne Migrationshintergrund. Deshalb werden wir
+Menschen --- ob mit oder ohne Migrationshintergrund. Deshalb werden wir
 die Jugendmigrationsdienste sowie Zugangsmöglichkeiten und
 Beteiligungschancen bei zivilgesellschaftlichem Engagement auch für
 Migrantenorganisationen stärken.
@@ -7131,8 +7131,8 @@ Helferinnen und Helfer bei den Feuerwehren, den Hilfsorganisationen und
 dem Technischen Hilfswerk (THW). Wir wollen das ehrenamtliche Engagement
 nachhaltig stärken. Wir wollen die Arbeit der 80.000 ehrenamtlichen
 Helferinnen und Helfer des THW durch einen weiteren Ausbau des
-hauptamtlichen Personals unterstützen -- auch beim Bundesamt für
-Bevölkerungsschutz und Katastrophenhilfe (BBK) -- und entlasten sowie
+hauptamtlichen Personals unterstützen --- auch beim Bundesamt für
+Bevölkerungsschutz und Katastrophenhilfe (BBK) --- und entlasten sowie
 weiter darin fortfahren, den Investitionsstau bei der
 Fahrzeugbeschaffung und den Liegenschaften des THW abzubauen. Der Bund
 wird seiner Verpflichtung im Rahmen des ergänzenden Katastrophenschutzes
@@ -7198,8 +7198,8 @@ die grenzüberschreitende Sitzverlegung von Kapitalgesellschaften
 einschließlich der Unternehmensmitbestimmung, der Gläubiger und der
 Minderheitsgesellschafter ein.
 
-Bei Onlineregistrierungen von Gesellschaften setzen wir uns -- auch auf
-europäischer Ebene -- für effektive präventive Kontrollen und
+Bei Onlineregistrierungen von Gesellschaften setzen wir uns --- auch auf
+europäischer Ebene --- für effektive präventive Kontrollen und
 zuverlässige Identitätsprüfungen ein, um die Richtigkeit der
 Eintragungen und den Vertrauensschutz öffentlicher Register zu
 gewährleisten; einfache Online-Anmeldungen lehnen wir ab.
@@ -7282,8 +7282,8 @@ einen schnelleren Entscheidungsprozess zu überführen.
 Wir greifen den Wunsch des Deutschen Bundestages auf und werden einen
 strukturierten Dialog führen, wie möglichst rasch innerhalb der nächsten
 fünf Jahre der Zugang zu wissenschaftlichen Publikationen im Interesse
-aller Beteiligten -- der Autorinnen und Autoren, der vielfältigen
-deutschen Verlagslandschaft und der nutzenden Wissenschaft -- über eine
+aller Beteiligten --- der Autorinnen und Autoren, der vielfältigen
+deutschen Verlagslandschaft und der nutzenden Wissenschaft --- über eine
 Lizenzierungsplattform praktisch verbessert werden kann.
 
 Familien- und Abstammungsrecht
@@ -7332,7 +7332,7 @@ durch die Öffnung der Ehe für Personen gleichen Geschlechts ergeben,
 zügig vornehmen.
 
 Menschen sollen unabhängig von ihrer sexuellen Identität frei und sicher
-leben können -- mit gleichen Rechten und Pflichten.
+leben können --- mit gleichen Rechten und Pflichten.
 
 Die Arbeit der Bundesstiftung Magnus Hirschfeld ist für die Förderung
 der Akzeptanz sexueller und geschlechtlicher Vielfalt in Deutschland
@@ -7388,8 +7388,8 @@ Minderheiten in Deutschland und die deutschen Minderheiten in Dänemark,
 in Mittelost- und Südosteuropa und den Nachfolgestaaten der Sowjetunion
 weiter fördern. Wir wollen die Maßnahmen zum Erhalt des kulturellen
 Erbes der Heimatvertriebenen, der Aussiedler und der deutschen
-Minderheiten unter ihrer Einbeziehung -- gegebenenfalls auch strukturell
--- weiterentwickeln.
+Minderheiten unter ihrer Einbeziehung --- gegebenenfalls auch strukturell
+--- weiterentwickeln.
 
 ## Verbraucherschutz
 
@@ -7580,14 +7580,14 @@ Um der Vorbildwirkung der öffentlichen Verwaltung gerecht zu werden,
 soll die Bundesregierung ihr „Maßnahmenprogramm Nachhaltigkeit“
 umsetzen und weiterentwickeln.
 
-Wir werden alle Subventionen -- neue und alte -- gemäß den
+Wir werden alle Subventionen --- neue und alte --- gemäß den
 subventionspolitischen Leitlinien und dem Prinzip der Nachhaltigkeit
 einer stetigen Überprüfung unterziehen.
 
 Internationaler und europäischer Umweltschutz Die globalen
 Umweltbedrohungen brauchen eine starke internationale Umweltpolitik.
-Deshalb werden wir uns -- in besonderer und enger Zusammenarbeit mit
-Frankreich -- für eine Stärkung der internationalen Umweltinstitutionen
+Deshalb werden wir uns --- in besonderer und enger Zusammenarbeit mit
+Frankreich --- für eine Stärkung der internationalen Umweltinstitutionen
 einsetzen. Wir wollen die Mittel für die internationale Umweltpolitik
 aufstocken. Wir setzen uns gegen den fortschreitenden Verlust an
 biologischer Vielfalt, die Zerstörung von Wäldern und den zunehmenden
@@ -7650,7 +7650,7 @@ vierten Tranche über 30 000 Hektar, darunter 20 000 Hektar von der
 Bodenverwertungsund -verwaltungs GmbH, fortsetzen.
 
 Wir wollen das Bundesprogramm „Biologische Vielfalt“ fortführen und
-werden die Mittel für „chance.natur -- Bundesförderung Naturschutz“
+werden die Mittel für „chance.natur --- Bundesförderung Naturschutz“
 erhöhen. In Zusammenarbeit mit den Ländern werden wir einen Aktionsplan
 Schutzgebiete erarbeiten. Wir werden einen „Wildnisfonds“ zur Verfügung
 stellen mit dem Ziel, die Länder bei der Umsetzung des
@@ -7797,7 +7797,7 @@ Wir werden ein Konzept zum perspektivischen Erhalt von Fachwissen und
 Nuklearanlagen sowie für Zwischen- und Endlagerung erarbeiten.
 
 Wir wollen, dass Deutschland bei der Reaktorsicherheit in Europa
-dauerhaft Einfluss ausübt -- auch nach dem Ausstieg aus der nationalen
+dauerhaft Einfluss ausübt --- auch nach dem Ausstieg aus der nationalen
 Nutzung der Kernenergie. Etliche Nachbarländer nutzen die Kernenergie
 weiter. Angesichts des alternden Bestands der Atomkraftwerke in Europa
 wollen wir uns weiterhin für umfassende Sicherheitsüberprüfungen,
@@ -7913,12 +7913,12 @@ für eine dauerhaft friedliche, stabile und gerechte Ordnung in der Welt
 ein. Gemeinsam mit unseren Partnern verfolgen wir einen umfassenden und
 vernetzten Ansatz. Dabei setzen wir auf Diplomatie, Dialog und
 Kooperation sowie Entwicklungszusammenarbeit. In diesem Rahmen bleibt
-die Bundeswehr -- wie im Weißbuch von 2016 dargelegt -- ein
+die Bundeswehr --- wie im Weißbuch von 2016 dargelegt --- ein
 unverzichtbarer Bestandteil deutscher Sicherheitspolitik. Unsere Politik
 basiert auf unseren Werten und dient unseren Interessen.
 
 In den vergangenen Jahren ist die Welt unberechenbarer und unsicherer
-geworden -- auch für Deutschland und Europa. Internationale Ordnungen
+geworden --- auch für Deutschland und Europa. Internationale Ordnungen
 und fundamentale Prinzipien wie Multilateralismus, das Völkerrecht und
 die universelle Gültigkeit von Menschenrechten sind unter Druck und
 drohen zu erodieren. Die Folgen des Klimawandels, Risiken von
@@ -8384,7 +8384,7 @@ des Auswärtigen Amtes beteiligt werden.
 
 Aufbauend auf den Weichenstellungen der vergangenen Legislaturperiode
 müssen wir durch entschlossene, weitreichende Maßnahmen in zentralen
-Bereichen unsere -- deutschen wie europäischen -- Handlungsansätze
+Bereichen unsere --- deutschen wie europäischen --- Handlungsansätze
 ausbauen: mit neuen Ansätzen für gute Regierungsführung, für den Auf-
 und Ausbau der afrikanischen Friedens- und Sicherheitsarchitektur, bei
 der Förderung von nachhaltigen und entwicklungsfördernden
@@ -8629,7 +8629,7 @@ besondere Verantwortung für unsere Soldatinnen und Soldaten trägt. Damit
 die Bundeswehr die ihr erteilten Aufträge in allen Dimensionen
 sachgerecht erfüllen kann, werden wir den Soldatinnen und Soldaten die
 bestmögliche Ausrüstung, Ausbildung und Betreuung zur Verfügung stellen
--- dies gilt insbesondere auch für den Bereich der persönlichen
+--- dies gilt insbesondere auch für den Bereich der persönlichen
 Ausstattung.
 
 Hierzu werden wir die in der Bundeswehr eingeleiteten Trendwenden
@@ -8661,7 +8661,7 @@ Die UN-mandatierte Mission MINUSMA in Mali wird fortgesetzt. Zur
 Übernahme der Feldlagerverantwortung von den Niederländern werden wir
 die Obergrenze im geringen Umfang heraufsetzen.
 
-Für die Menschen in der Bundeswehr -- ein attraktiver Arbeitgeber Das
+Für die Menschen in der Bundeswehr --- ein attraktiver Arbeitgeber Das
 zentrale Leitbild der Inneren Führung und der Soldatin und des Soldaten
 als „Staatsbürger in Uniform“ ist und bleibt Maßstab. Diese Fundamente
 wollen wir mit dem Prozess „Innere Führung heute“ stärken. Die
@@ -8780,7 +8780,7 @@ Chancen und Risiken der Digitalisierung sind auch für die Bundeswehr das
 entscheidende Zukunftsthema. Die Digitalisierung der Bundeswehr ist
 dabei konsequent zu verfolgen und mit den erforderlichen Ressourcen zu
 hinterlegen. Kennzeichen der Digitalisierung ist hohes Innovationstempo
--- diesem gilt es auch in der Bundeswehr gerecht zu werden. Die im
+--- diesem gilt es auch in der Bundeswehr gerecht zu werden. Die im
 Weißbuch 2016 festgelegten Entwicklungslinien der Bundeswehr im Bereich
 Cybersicherheit werden dabei konsequent weiter verfolgt.
 
@@ -8927,7 +8927,7 @@ den Ausbau Erneuerbarer Energien verbessern. Wir wollen durch multi- und
 bilaterale Entwicklungszusammenarbeit den Aus- und Aufbau von
 Kreislaufwirtschaftssystemen unterstützen.
 
-Fluchtursachen bekämpfen -- Zukunftsperspektiven schaffen Existentielle
+Fluchtursachen bekämpfen --- Zukunftsperspektiven schaffen Existentielle
 Notlagen führen zu Flucht und Migration. Wir wollen akute und
 strukturelle Fluchtursachen mindern, einen entscheidenden Beitrag zum
 Wiederaufbau leisten, zur Rückkehr von Flüchtlingen beitragen und
@@ -8972,7 +8972,7 @@ Verbesserung der Wirksamkeit der Entwicklungszusammenarbeit Wir wollen
 die Wirksamkeit erhöhen, indem wir Umsetzungsvorschriften überprüfen,
 zeitgemäß anpassen und uns besser über ODA-relevante Vorhaben abstimmen.
 
-# Zusammenhalt und Erneuerung -- Demokratie beleben
+# Zusammenhalt und Erneuerung --- Demokratie beleben
 
 ## Bürgerbeteiligung
 
@@ -9102,7 +9102,7 @@ kulturelle Projekte von nationaler Bedeutung in allen Teilen
 Deutschlands maßgeblich zu unterstützen.
 
 Wir wollen das Programm „Investitionen für nationale Kultureinrichtungen
-in Ostdeutschland -- Invest Ost“ als gesamtdeutsches Programm
+in Ostdeutschland --- Invest Ost“ als gesamtdeutsches Programm
 erweitern. Um eine Stärkung der kulturellen Orte in Städten, Gemeinden
 und im ländlichen Gebiet, im analogen wie im digitalen Raum zu
 erreichen, wollen wir die Förderung auch für kommerzielle kulturelle
@@ -9155,7 +9155,7 @@ Eine Initiative soll Literatur und deutsche Sprache und deren Bedeutung
 für unsere Gesellschaft unterstreichen.
 
 Wir bekennen uns zum Schutz und zur Förderung der vier nationalen
-Minderheiten in Deutschland -- Dänen, Sorben, Friesen sowie Sinti und
+Minderheiten in Deutschland --- Dänen, Sorben, Friesen sowie Sinti und
 Roma.
 
 Soziale Lage von Künstlerinnen, Künstlern und Kreativen Weil es
@@ -9233,7 +9233,7 @@ stärker zusammenarbeiten. Wir wollen die pädagogische Vermittlungsarbeit
 bei den vom Bund geförderten Museen, Gedenkstätten und anderen
 Kultureinrichtungen personell und finanziell deutlich stärken.
 
-Gedenken und Erinnern Ohne Erinnerung keine Zukunft -- zum
+Gedenken und Erinnern Ohne Erinnerung keine Zukunft --- zum
 demokratischen Grundkonsens in Deutschland gehören die Aufarbeitung der
 NS-Terrorherrschaft und der SED-Diktatur, der deutschen
 Kolonialgeschichte, aber auch positive Momente unserer
@@ -9340,9 +9340,9 @@ der „Beratenden Kommission“ für die Rückgabe NS-verfolgungsbedingt
 entzogener Kulturgüter nicht zu verschließen.
 
 Die Aufarbeitung der Provenienzen von Kulturgut aus kolonialem Erbe in
-Museen und Sammlungen wollen wir -- insbesondere auch über das Deutsche
+Museen und Sammlungen wollen wir --- insbesondere auch über das Deutsche
 Zentrum Kulturgutverluste und in Zusammenarbeit mit dem Deutschen
-Museumsbund -- mit einem eigenen Schwerpunkt fördern. Der Ankaufetat von
+Museumsbund --- mit einem eigenen Schwerpunkt fördern. Der Ankaufetat von
 Kulturgut, das für die deutsche Kunst und Geschichte von besonderer
 Bedeutung ist, soll fortgeführt werden.
 
